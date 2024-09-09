@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a final year undergraduate student at University of Science and Technology of China (USTC), supervised by Prof. Nenghai Yu and Prof. Qi Chu.
+
 ![Chenghao Yang's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Syuchin&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
