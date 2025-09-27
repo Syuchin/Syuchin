@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! Here is Syuchin
+Hello! Here is Syuchin
 
-- 🌱 I am a final year undergraduate student at University of Science and Technology of China (USTC)
+- 🌱 I am a first-year Master’s student at the University of Science and Technology of China (USTC).
+
 - 🔭 My advisors are Prof. Nenghai Yu and Prof. Qi Chu.
-- ⚡ **Research Interests**: AI4Sec, Multimodal Agent, Multimodal LLM hallucination.
+
+- ⚡ Research Interests: LLM Evaluation; contributor to open benchmarks including Agent4Weakness, FinSearchComp, MME-CC, and DiscoX.
 
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syuchin&show_icons=true&layout=compact" alt="Syuchin" />
